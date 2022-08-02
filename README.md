@@ -1,5 +1,11 @@
 # INSTAGRAM CLONE - OLDAGRAM
 
+Using the selfie stick may seem like the best invention but check out these legends who created selfies of themselves through painting.
+I am choosing to showcase their self-portrait through the clone of instagram; called oldagram.
+
+I particularly enjoyed using the flexbox and it's properties of justify-content in this project.
+I also made my css code DRY by grouping my selectors. That was fun
+
 ## About Scrimba
 
 At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
