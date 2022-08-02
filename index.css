@@ -64,6 +64,13 @@ header {
     margin-left: 8px;
 }
 
+.heart:hover,
+.comment:hover,
+.dm:hover {
+    cursor: pointer;
+    opacity: 0.4;
+}
+
 .heart {
     width: 23px;
     height: 22px;  
